@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 // let we take the first tool from the toolbox called variable
-//we have lot of similar tools in our tool box for just storing the data but in different ways like const,maps,struct,array
+//we have lot of similar tools in our tool box for just storing the data but in different ways like const,maps,array
 //which are used to store the data temporarly  and these variables can be reused again and again there are like the small chips in machine
 
 /*
