@@ -3,6 +3,11 @@ package main
 import "fmt"
 
 /*
+let us imagine we have to take the different ways to go based on different conditions 
+for example we have need to go right to school left to play ground based on mood 
+we have to go in different ways
+
+in this situation we have a wonderful toolpack in  our tool box called conditionaltoolpack
 
 now we attached the storage chips with the operator tool packs.
 let we take a look for another toolpack from our tool box ,
