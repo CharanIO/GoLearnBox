@@ -31,7 +31,9 @@ package main
 import "fmt"
 
 func main() {
-	//here we take the small chips from
+	//here we take the small chips from the toolbox perform some operation from operation toolkit 
+	//to store the values in it and we use the prebuild tool (package) fmt 
+	//to print the value to screen
 	a := 10
 	b := 20
 	b += 10

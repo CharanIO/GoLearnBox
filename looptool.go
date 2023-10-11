@@ -4,7 +4,7 @@ this situation we have one tool in our toolbox
 loop toolkit is used when we want to perform same task again and again
 
 it consists of for loop
-range key word is used to loop the array,slce,map
+range key word is used to loop the array,slice,map
 */
 package main
 
@@ -12,7 +12,7 @@ import "fmt"
 
 func main() {
 	for i := 0; i < 10; i++ {
-		fmt.Println("hi charan")
+		fmt.Println("hi mrc")
 	}
 
 	array := [5]int{1, 2, 3, 4, 5}
